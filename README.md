@@ -3,5 +3,4 @@ The aim of this project is to build a wooden, bluetooth controllable toy train. 
 This code will help to control forward, backward, left and right navigation of wheels. 
 
 The input for the code is via a bluetooth controller signal and commands will be passed to function to rotate the wheels accordingly.
-![alt text](https://github.com/uday160386/robotoys/blob/master/images/wooden-to-train.jpeg)
-[![Watch the video]()](https://youtu.be/3mcCuL9hx_4)
+[![Watch the video](https://github.com/uday160386/robotoys/blob/master/images/wooden-to-train.jpeg))](https://youtu.be/3mcCuL9hx_4)
